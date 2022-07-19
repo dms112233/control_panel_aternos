@@ -1,0 +1,20 @@
+{
+    "testServer": [
+        {
+            "login": "testAPIforDMS",
+            "password": "1234567890"
+        }
+    ],
+    "server2": [
+        {
+            "login": "ccc",
+            "password": "564"
+        } 
+    ],
+    "server3": [
+        {
+            "login": "hft",
+            "password": "894"
+        } 
+    ]
+}
