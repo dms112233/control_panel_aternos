@@ -1,0 +1,14 @@
+{
+    "exemple1": [
+        {
+            "login": "exemple login",
+            "password": "exemple1 password"
+        }
+    ],
+    "exemple2": [
+        {
+            "login": "exemple login",
+            "password": "exemple password"
+        } 
+    ]
+}
